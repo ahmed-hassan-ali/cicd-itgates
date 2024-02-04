@@ -10,7 +10,7 @@ pipeline {
     }
 
     stages {
-        stage('Set vars') {
+        stage('Set vars ') {
             steps {
                 script {
 
